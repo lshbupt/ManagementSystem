@@ -11,7 +11,7 @@ public class DBUtil {
 	private String JDBC_DRIVER = "com.mysql.cj.jdbc.Driver";  
 	private String JDBC_URL = "jdbc:mysql://localhost:3306/mall?useSSL=false&allowPublicKeyRetrieval=true&serverTimezone=UTC";
 	private  String JDBC_USER="root";
-	private  String  JDBC_PASSWORD="83305898abc";
+	private  String  JDBC_PASSWORD="123456";
 	//?useSSL=false&allowPublicKeyRetrieval=true&serverTimezone=UTC
 	/**
 	 * 获取数据库连接
